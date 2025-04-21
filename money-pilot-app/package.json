@@ -1,0 +1,26 @@
+{
+  "name": "money-pilot-app",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vue-tsc -b && vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "@quasar/vite-plugin": "^1.9.0",
+    "pinia": "^3.0.2",
+    "quasar": "^2.18.1",
+    "sass": "^1.86.3",
+    "vue": "^3.5.13",
+    "vue-router": "^4.5.0"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-vue": "^5.2.2",
+    "@vue/tsconfig": "^0.7.0",
+    "typescript": "~5.7.2",
+    "vite": "^6.3.1",
+    "vue-tsc": "^2.2.8"
+  }
+}
