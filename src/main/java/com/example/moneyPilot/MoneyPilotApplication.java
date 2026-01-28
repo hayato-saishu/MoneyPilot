@@ -1,4 +1,4 @@
-package com.example.money_pilot;
+package com.example.moneyPilot;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
